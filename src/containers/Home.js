@@ -13,7 +13,7 @@ const Home = () => {
   return (
     
     <>
-    <CustomCursor />
+    {/* <CustomCursor /> */}
 
     <div className="main-container" id="main-container">
       <Navbar />
